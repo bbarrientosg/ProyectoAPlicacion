@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1036362232905",
+    "project_id": "actividad5-3fad5",
+    "storage_bucket": "actividad5-3fad5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036362232905:android:09d28a43af3270c38dfb98",
+        "android_client_info": {
+          "package_name": "com.example.actividad5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036362232905-m8q66gb1fjr2a5kqtifms6bedvekkisf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS6JmKHzFTjSXNCeF9z7Gg8ykahItrf-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036362232905-m8q66gb1fjr2a5kqtifms6bedvekkisf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
