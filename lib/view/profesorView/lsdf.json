@@ -1,0 +1,13 @@
+{
+  "android": {
+    "version": "2.0.02",
+    "updated_at": "2023-10-01",
+    "download": {
+      "url": "https://files.catbox.moe/0u1biz.apk",
+      "sha256": "6d2cbfa356d272dc1391b2057098df04abbfec3e64f7cba6a1cd95f684344371"
+    },
+    "changelog": {
+      "es": "- It is now possible to add multiple Apple Wallet certificates of the same person\n- The flashlight can now be turned on and off when scanning certificates\n- A bug which did not consider the fourth vaccination as valid has been fixed\n- It is now explicitly indicated when a certificate has expired, instead of just calling them \"invalid\"\n- Stability improvements\n- Bug fixes"
+    }
+  }
+}
